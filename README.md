@@ -1,8 +1,12 @@
-### Hi there 👋, Jacob Smith
-#### Front End Development
 ![Front End Development](https://github.com/jakesmith4/jakesmith4/blob/main/jakeprofilegit.png)
 
+# Jacob Smith
 I'm Jacob from Texas, and I enjoy building responsive websites with HTML, CSS, and Javascript. I really enjoy mobile first design, and frameworks like React. I hope to get more into React more in the future projects. For now my main focus is on the 3 main core languages. You can check out my facebook profile at https://www.facebook.com/profile.php?id=100000047980515
+
+## Skills and Experience
+🖥 HTML
+📱 Mobile First CSS
+💻 JS
 
 Skills: JS / HTML / CSS
 
