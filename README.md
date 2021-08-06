@@ -10,6 +10,9 @@ I'm Jacob from Texas, and I enjoy building responsive websites with HTML, CSS, a
 
 Skills: JS / HTML / CSS
 
+##Examples of Work
+<img src="https://github.com/jakesmith4/jakesmith4/blob/main/yusufs-electrical-min.png" width="256">
+
 - 🔭 I’m currently working on Javascript projects 
 - 🌱 I’m currently learning Javascript 
 
