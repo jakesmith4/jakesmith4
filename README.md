@@ -21,6 +21,9 @@ Skills: JS / HTML / CSS
     <a href="https://maidaid.netlify.app/">
       <img src="https://github.com/jakesmith4/jakesmith4/blob/main/maid-aid-min.png" width="256"
     </a>
+      <a href="https://northtexaselevator.netlify.app/">
+        <img src="https://github.com/jakesmith4/jakesmith4/blob/main/north-texas-elevator-min.png" width="256"
+      </a>
     </div>
   
 ## What I'm Doing Right Now
