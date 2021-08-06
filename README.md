@@ -13,11 +13,9 @@ Skills: JS / HTML / CSS
 ## Examples of Work On Netlify
 <div display="flex">
 <a href="https://yusufs-electrical.netlify.app/">
-  <p>Yusufs Electrical</p>
 <img src="https://github.com/jakesmith4/jakesmith4/blob/main/yusufs-electrical-min.png" width="256">
   </a>
   <a href="https://donnettesmith.com/">
-    <p>Donnette Smith</p>
   <img src="https://github.com/jakesmith4/jakesmith4/blob/main/donnette-smith-min.png" width="256"
   </a>
     <a href="https://maidaid.netlify.app/">
