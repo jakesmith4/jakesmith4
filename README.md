@@ -16,7 +16,7 @@ Skills: JS / HTML / CSS
 <img src="https://github.com/jakesmith4/jakesmith4/blob/main/yusufs-electrical-min.png" width="256">
   </a>
   <a href="http://www.donnettesmith.com/">
-  <img src="https://github.com/jakesmith4/jakesmith4/blob/main/donnete-smith-min.png" width="256"
+  <img src="https://github.com/jakesmith4/jakesmith4/blob/main/donnette-smith-min.png" width="256"
   </a>
     <a href="https://maidaid.netlify.app/">
       <img src="https://github.com/jakesmith4/jakesmith4/blob/main/maid-aid-min.png" width="256"
