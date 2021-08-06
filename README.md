@@ -14,7 +14,8 @@ Skills: JS / HTML / CSS
 <a href="https://yusufs-electrical.netlify.app/">
 <img src="https://github.com/jakesmith4/jakesmith4/blob/main/yusufs-electrical-min.png" width="256">
   </a>
-
+  
+## What I'm Doing Right Now
 - 🔭 I’m currently working on Javascript projects 
 - 🌱 I’m currently learning Javascript 
 
