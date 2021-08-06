@@ -33,6 +33,9 @@ Skills: JS / HTML / CSS
             <a href="https://devlaunchlocal.netlify.app/">
               <img src="https://github.com/jakesmith4/jakesmith4/blob/main/dev-launch-local-min.png" width="256"
             </a>
+              <a href="https://jakesdevportfolio.netlify.app/">
+                <img src="https://github.com/jakesmith4/jakesmith4/blob/main/jakes-dev-portfolio-min.png" width="256"
+              </a>
     </div>
   
 ## What I'm Doing Right Now
