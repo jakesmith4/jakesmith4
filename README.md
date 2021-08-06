@@ -27,6 +27,9 @@ Skills: JS / HTML / CSS
         <a href="https://lifescrossroads.netlify.app/">
           <img src="https://github.com/jakesmith4/jakesmith4/blob/main/lifes-crossroads-min.png" width="256"
         </a>
+          <a href="https://jakesflexboxportfolio.netlify.app/">
+            <img src="https://github.com/jakesmith4/jakesmith4/blob/main/flexbox-portfolio-min.png" width="256"
+          </a>
     </div>
   
 ## What I'm Doing Right Now
