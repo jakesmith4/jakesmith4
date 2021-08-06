@@ -37,7 +37,7 @@ Skills: JS / HTML / CSS
                 <img src="https://github.com/jakesmith4/jakesmith4/blob/main/jakes-dev-portfolio-min.png" width="256"
               </a border="2 solid green">
                 <a href="https://grocerybud1.netlify.app/">
-                  <img src="https://github.com/jakesmith4/jakesmith4/blob/main/grocery-bud-min.png" width="256"
+                  <img src="https://github.com/jakesmith4/jakesmith4/blob/main/grocery-bud-new-min.png" width="256"
                 </a>
     </div>
   
