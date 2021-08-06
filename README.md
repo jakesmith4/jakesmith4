@@ -14,8 +14,8 @@ Skills: JS / HTML / CSS
 <div display="flex">
 <a href="https://yusufs-electrical.netlify.app/">
 <img src="https://github.com/jakesmith4/jakesmith4/blob/main/yusufs-electrical-min.png" width="256">
-  </a href="http://www.donnettesmith.com/">
-  <a>
+  </a>
+  <a href="http://www.donnettesmith.com/">
   <img src="https://github.com/jakesmith4/jakesmith4/blob/main/donnete-smith-min.png" width="256"
   </a>
     </div>
