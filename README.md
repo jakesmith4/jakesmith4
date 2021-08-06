@@ -7,6 +7,7 @@ I'm Jacob from Texas, and I enjoy building responsive websites with HTML, CSS, a
 🖥 HTML
 <br>
 📱 Mobile First CSS
+<br>
 💻 JS
 
 Skills: JS / HTML / CSS
