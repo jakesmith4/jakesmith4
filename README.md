@@ -12,7 +12,7 @@ Skills: JS / HTML / CSS
 
 ## Examples of Work
 <div display="flex">
-<a href="https://yusufs-electrical.netlify.app/" display="block" margin-bottom="32">
+<a href="https://yusufs-electrical.netlify.app/">
 <img src="https://github.com/jakesmith4/jakesmith4/blob/main/yusufs-electrical-min.png" width="256">
   </a>
   <a href="http://www.donnettesmith.com/">
