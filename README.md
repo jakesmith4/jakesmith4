@@ -10,7 +10,7 @@
 <br>
 ⌨ JS
 
-Skills: JS / HTML / CSS
+Skills: HTML💻 / CSS📱 / JS⌨
 
 ## Examples of Work On Netlify
 <div display="flex">
