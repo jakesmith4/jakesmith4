@@ -38,12 +38,7 @@ Skills: HTML💻 / CSS📱 / JS⌨
               <a href="https://jakesdevportfolio.netlify.app/">
                 <img src="https://github.com/jakesmith4/jakesmith4/blob/main/jakes-dev-portfolio-min.png" width="256"
               </a border="2 solid green">
-                <a href="https://grocerybud1.netlify.app/">
-                  <img src="https://github.com/jakesmith4/jakesmith4/blob/main/grocery-bud-update-min.png" width="256"
-                </a>
-                  <a href="https://gallerystarter.netlify.app/">
-                  <img src="https://github.com/jakesmith4/jakesmith4/blob/main/js-gallery-min.png" width="256"
-                </a>
+                
     </div>
   
 ## What I'm Doing Right Now
