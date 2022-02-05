@@ -43,8 +43,7 @@ Skills: HTML💻 / CSS📱 / JS⌨
               </a>
                   <a href="https://webservicepro.netlify.app/">
                 <img src="https://github.com/jakesmith4/jakesmith4/blob/main/web-service-pro-min.png" width="256"
-              </a>
-                
+                     </a>
     </div>
   
 ## What I'm Doing Right Now
