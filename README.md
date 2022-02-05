@@ -37,7 +37,7 @@ Skills: HTML💻 / CSS📱 / JS⌨
             </a>
               <a href="https://jakesdevportfolio.netlify.app/">
                 <img src="https://github.com/jakesmith4/jakesmith4/blob/main/jakes-dev-portfolio-min.png" width="256"
-              </a border="2 solid green">
+              </a>
                 
     </div>
   
