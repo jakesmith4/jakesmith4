@@ -38,7 +38,7 @@ Skills: HTML💻 / CSS📱 / JS⌨
               <a href="https://jakesdevportfolio.netlify.app/">
                 <img src="https://github.com/jakesmith4/jakesmith4/blob/main/jakes-dev-portfolio-min.png" width="256"
               </a>
-                <a href="https://pokemonfinderapp.netlify.app/">
+                <a href="https://pokemonfinderapp.netlify.app/" target="_blank">
                 <img src="https://github.com/jakesmith4/jakesmith4/blob/main/pokemon-finder-min.png" width="256"
               </a>
                 
