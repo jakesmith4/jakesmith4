@@ -45,7 +45,7 @@ Skills: HTML💻 / CSS📱 / JS⌨
                 <img src="https://github.com/jakesmith4/jakesmith4/blob/main/web-service-pro-min.png" width="256"
                      </a>
                     <a href="https://smithconstruction.netlify.app/">
-                <img src="[https://github.com/jakesmith4/jakesmith4/blob/main/web-service-pro-min.png](https://github.com/jakesmith4/jakesmith4/blob/main/smith-construction-page-min.png)" width="256"
+                <img src="https://github.com/jakesmith4/jakesmith4/blob/main/smith-construction-page-min.png" width="256"
                      </a>
     </div>
   
